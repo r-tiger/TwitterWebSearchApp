@@ -1,6 +1,8 @@
 # TwitterWebSearchApp
 TwitterWebSearchApp
 
+Test link: http://twittersearch.meteor.com
+
 Deployment process:
 
 Installing Meteor on OS X, Linux or Windows: https://www.meteor.com/install
