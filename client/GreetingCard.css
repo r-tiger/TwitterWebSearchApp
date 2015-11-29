@@ -1,0 +1,42 @@
+.card-wide.mdl-card {
+    width: 512px;
+}
+.card-wide > .mdl-card__title {
+    color: #fff;
+    height: 176px;
+    background: url('/img/marketing.jpg') center / cover;
+}
+.card-wide > .mdl-card__menu {
+    color: #fff;
+}
+
+.blog .blog__posts {
+    max-width: 900px;
+    padding: 0;
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    flex-shrink: 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.font-greetingCard{
+    color: rgb(63,81,181);
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    line-height: 1;
+    letter-spacing: 0;
+    text-decoration: none;
+    text-align: center;
+    line-height: 36px;
+    vertical-align: middle;
+    margin-left:20px ;
+    margin-right:20px ;
+}
+
+
+
